@@ -21,6 +21,7 @@ public class Main {
 
         Calcultor calcultor = (Calcultor) ctx.getBean("simpleCalcultor");
         int res = calcultor.add(1, 2);
+        calcultor.div(1, 0);
 
     }
 }
