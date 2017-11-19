@@ -5,6 +5,7 @@
       <configuration>
         <fileset id="fileset" name="Annotation Aop" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/annotation-aop.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/annotation-aop-xml.xml</file>
         </fileset>
       </configuration>
     </facet>
